@@ -1,13 +1,19 @@
 # TP0-CV
-# **Nombre**
-Juan Maidana
+## ***Sobre mí***
+Mi nombre es __Juan Manuel Maidana__, actualmente estoy cursando la **Tecnicatura en Programación Informática** en la ***Universidad Nacional de San Martín_***.  
+Tengo experiencia en los lenguajes de programación de __C__, __Python__, __ASMx86__ y conozco algo de __HTML__ y __CSS__.  
+Me encantaría poder insertarme en la industria, ya que esta profesión es algo que me apasiona.  
+Además, disfruto de los nuevos desafíos y de resolver cualquier problema que se me presente.  
 
-## **Aplicación**
-Hola soy juan, quiero trabajo, gracias.
+## ***Videojuegos Favoritos***
+A continuación, algunos de mis videojuegos favoritos.
 
-### **Juegos**
-Team Fortress 2
-God of War
-Doom
+#### Team Fortress 2  
 
-![Homero luego de tomar manaos de uva](https://scontent.faep39-1.fna.fbcdn.net/v/t1.6435-9/62227982_2301214376786852_5556996556361564160_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a0f3c3&_nc_ohc=rFmTCFCbVXoQ7kNvgF7WY6k&_nc_ht=scontent.faep39-1.fna&oh=00_AYCY6huGmKYvpY-x0fe71aZzObDSG_lQ5uvVsWzCTZ84qg&oe=66E3522C)
+#### God of War  
+
+#### Doom  
+
+#### Hollow Knight
+
+![Homero luego de tomar manaos de uva](images/homero_manaos.jpeg)
