@@ -32,3 +32,4 @@ simplemente excelente. Verdaderamente demuestra que no se necesitan equipos giga
   
   
 Gracias por leer :)
+  
