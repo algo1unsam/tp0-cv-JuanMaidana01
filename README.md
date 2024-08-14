@@ -28,5 +28,5 @@ Con esta saga creo que no hay mucho más que decir, prácticamente todos son cl�
 <img src="images/hollowknight.jpg" alt="Hollow Knight" width="64">
 A diferencia de los anteriores mencionados, Hollow Knight es un videojuego indie desarollado por Team Cherry en 2017. No soy fanático de los metroidvania pero este es  
 simplemente excelente. Verdaderamente demuestra que no se necesitan equipos gigantescos y presupuestos multimillonarios para crear una obra de arte.  
-<br>
-Gracias por leer :)
+
+##### _Gracias por leer :)_
