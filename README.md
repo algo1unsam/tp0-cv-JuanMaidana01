@@ -10,4 +10,4 @@ Team Fortress 2
 God of War
 Doom
 
-![Homero luego de tomar manaos de uva](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F760193612083561920%2F%3Famp_client_id%3DCLIENT_ID%2528_%2529%26mweb_unauth_id%3D&psig=AOvVaw3diYi8lF0PwU5kWvLh4cB3&ust=1723676052048000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCd1YWw84cDFQAAAAAdAAAAABAE)
+![Homero luego de tomar manaos de uva](https://scontent.faep39-1.fna.fbcdn.net/v/t1.6435-9/62227982_2301214376786852_5556996556361564160_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a0f3c3&_nc_ohc=rFmTCFCbVXoQ7kNvgF7WY6k&_nc_ht=scontent.faep39-1.fna&oh=00_AYCY6huGmKYvpY-x0fe71aZzObDSG_lQ5uvVsWzCTZ84qg&oe=66E3522C)
